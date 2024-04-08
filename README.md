@@ -1,9 +1,6 @@
 # Project #3: Experiments with Hashing
 
 * Author: Alex Taylor
-* Class: CS321 Section 002
-* Semester: Sp24
-
 
 ## Overview
 
@@ -21,15 +18,12 @@ myself with the problem this code was solving and WHY this method is
 worth using. Once I understood how classes were supposed to interact with
 one another, I was able to implement most of them without too much trouble.
 
-The thing I struggled with the most was that the word-list.txt I was given
-was somehow only at 700,000 lines, so once I realized this I found a way to 
-get the 3 million line version. I enjoyed making the HashtableExperiment class
-for the most part, but some of the condition checking was a little confusing. 
-I also struggled a little bit with running the project on AWS, but I was able
-to get it to work after an hour or so.I realized I needed a personal access 
-token in order to clone my github repo to my EC2 instance. It was a lot of fun
-running the project on AWS! Overall I definitely have a better grasp on linear 
-probing and double hashing, and enjoyed this project!
+I enjoyed making the HashtableExperiment class for the most part, however 
+some of the condition checking was a little confusing. It was a lot of fun 
+running the project on AWS! The only thing I struggled with was realizing 
+I needed a personal access token in order to clone my github repo to my EC2
+instance. Overall I definitely have a better grasp on linear probing
+and double hashing, and enjoyed this project!
 
 ## Compiling and Using
 

@@ -1,6 +1,7 @@
 # Project #3: Experiments with Hashing
 
 * Author: Alex Taylor
+* University Project
 
 ## Overview
 
